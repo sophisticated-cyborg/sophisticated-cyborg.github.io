@@ -1,0 +1,39 @@
+body {
+    background-color: #363942;
+    height: 100vh;
+    margin: 0;
+    text-align: center;
+  }
+ 
+.game_btn1 {
+  display: table;
+  margin: 0 auto;
+  background-color: #303136;
+  display:inline-block;
+  padding:16px 28px;
+  border:1px solid #000000;
+  border-radius: 0.12px;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.game_btn2 {
+  display: table;
+  margin: 0 auto;
+  background-color: #303136;
+  display:inline-block;
+  padding:16px 28px;
+  border:1px solid #000000;
+  border-radius: 0.12px;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.story {
+  text-align: center;
+  font-size: large;
+}
+
+.h1 {
+  text-align: center;
+}
