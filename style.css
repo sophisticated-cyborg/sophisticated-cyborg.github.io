@@ -21,10 +21,11 @@ body {
 
 .content {
     background-color: #FFFFFF;
+    flex: 1;
+    position: relative;
     height: auto;
-    width: auto;
+    display: inline-block;
     font-size: large;
-    align-content: center;
 
   }
 
