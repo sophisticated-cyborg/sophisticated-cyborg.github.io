@@ -26,8 +26,6 @@ body {
     overflow: clip;
     height: auto;
     display: inline-block;
-    left: 50%;
-    transform: translateX(-50%);
     font-size: large;
 
   }
