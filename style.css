@@ -22,6 +22,7 @@ body {
 .content {
     background-color: #FFFFFF;
     height: auto;
+    width: auto;
     font-size: large;
 
   }
